@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 Enjoy
 
-**krokoreit**
+   **krokoreit**
 
-<img src="krokoreit03_Github.png" width="80" height="80">
