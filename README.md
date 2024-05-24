@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there
 
 <!--
 **krokoreit/krokoreit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Enjoy
+
+**krokoreit**
+
+<img src="krokoreit03_Github.png" width="80" height="80">
